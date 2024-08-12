@@ -1,0 +1,2 @@
+# Financial_Independence_Monthly_Req
+financial retiral calculator for monthly requirement
